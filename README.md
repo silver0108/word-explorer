@@ -1,4 +1,4 @@
-# word-explorer
+# 🎮 word-explorer
 ## 서비스 개요
 단어 간 어휘 유사도를 기반으로 단어 맞추기 웹 어플리케이션입니다.
 <br/><br/>
