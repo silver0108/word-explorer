@@ -41,10 +41,10 @@ https://github.com/silver0108/word-explorer/assets/78434676/8b419113-7121-4857-b
 
 ## 기술 스택
 - React
-- Javascript
-- React Router
+- Typescript
 - Axios
 - Recoil
+- emotion
 - Django
 - Django-Rest-Framework
 - corsheaders
