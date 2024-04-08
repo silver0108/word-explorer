@@ -18,10 +18,12 @@
 
 ## 서비스 화면
 ![Untitled](https://github.com/silver0108/word-explorer/assets/78434676/4dd53b60-da16-4504-bf60-5d003066369b)
+
 <br/><br/>
 
 ## 시연 영상
 https://github.com/silver0108/word-explorer/assets/78434676/8b419113-7121-4857-bb51-fa596db50d75
+
 <br/><br/>
 
 ## 팀원
